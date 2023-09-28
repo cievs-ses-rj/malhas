@@ -1,0 +1,93 @@
+fid,code_muni,name_muni,code_state,abbrev_state,cod_mun,cod_reg,nome_reg
+"1",3300100,Angra Dos Reis,"33",RJ,"330010","33001",Baía da Ilha Grande
+"2",3300159,Aperibé,"33",RJ,"330015","33007",Noroeste
+"3",3300209,Araruama,"33",RJ,"330020","33002",Baixada Litorânea
+"4",3300225,Areal,"33",RJ,"330022","33003",Centro-Sul
+"5",3300233,Armação Dos Búzios,"33",RJ,"330023","33002",Baixada Litorânea
+"6",3300258,Arraial Do Cabo,"33",RJ,"330025","33002",Baixada Litorânea
+"7",3300308,Barra Do Piraí,"33",RJ,"330030","33004",Médio Paraíba
+"8",3300407,Barra Mansa,"33",RJ,"330040","33004",Médio Paraíba
+"9",3300456,Belford Roxo,"33",RJ,"330045","33005",Metropolitana I
+"10",3300506,Bom Jardim,"33",RJ,"330050","33009",Serrana
+"11",3300605,Bom Jesus Do Itabapoana,"33",RJ,"330060","33007",Noroeste
+"12",3300704,Cabo Frio,"33",RJ,"330070","33002",Baixada Litorânea
+"13",3300803,Cachoeiras De Macacu,"33",RJ,"330080","33009",Serrana
+"14",3300902,Cambuci,"33",RJ,"330090","33007",Noroeste
+"15",3300936,Carapebus,"33",RJ,"330093","33008",Norte
+"16",3300951,Comendador Levy Gasparian,"33",RJ,"330095","33003",Centro-Sul
+"17",3301009,Campos Dos Goytacazes,"33",RJ,"330100","33008",Norte
+"18",3301108,Cantagalo,"33",RJ,"330110","33009",Serrana
+"19",3301157,Cardoso Moreira,"33",RJ,"330115","33007",Noroeste
+"20",3301207,Carmo,"33",RJ,"330120","33009",Serrana
+"21",3301306,Casimiro De Abreu,"33",RJ,"330130","33002",Baixada Litorânea
+"22",3301405,Conceição De Macabu,"33",RJ,"330140","33008",Norte
+"23",3301504,Cordeiro,"33",RJ,"330150","33009",Serrana
+"24",3301603,Duas Barras,"33",RJ,"330160","33009",Serrana
+"25",3301702,Duque De Caxias,"33",RJ,"330170","33005",Metropolitana I
+"26",3301801,Engenheiro Paulo De Frontin,"33",RJ,"330180","33003",Centro-Sul
+"27",3301850,Guapimirim,"33",RJ,"330185","33009",Serrana
+"28",3301876,Iguaba Grande,"33",RJ,"330187","33002",Baixada Litorânea
+"29",3301900,Itaboraí,"33",RJ,"330190","33006",Metropolitana II
+"30",3302007,Itaguaí,"33",RJ,"330200","33005",Metropolitana I
+"31",3302056,Italva,"33",RJ,"330205","33007",Noroeste
+"32",3302106,Itaocara,"33",RJ,"330210","33007",Noroeste
+"33",3302205,Itaperuna,"33",RJ,"330220","33007",Noroeste
+"34",3302254,Itatiaia,"33",RJ,"330225","33004",Médio Paraíba
+"35",3302270,Japeri,"33",RJ,"330227","33005",Metropolitana I
+"36",3302304,Laje Do Muriaé,"33",RJ,"330230","33007",Noroeste
+"37",3302403,Macaé,"33",RJ,"330240","33008",Norte
+"38",3302452,Macuco,"33",RJ,"330245","33009",Serrana
+"39",3302502,Magé,"33",RJ,"330250","33005",Metropolitana I
+"40",3302601,Mangaratiba,"33",RJ,"330260","33001",Baía da Ilha Grande
+"41",3302700,Maricá,"33",RJ,"330270","33006",Metropolitana II
+"42",3302809,Mendes,"33",RJ,"330280","33003",Centro-Sul
+"43",3302858,Mesquita,"33",RJ,"330285","33005",Metropolitana I
+"44",3302908,Miguel Pereira,"33",RJ,"330290","33003",Centro-Sul
+"45",3303005,Miracema,"33",RJ,"330300","33007",Noroeste
+"46",3303104,Natividade,"33",RJ,"330310","33007",Noroeste
+"47",3303203,Nilópolis,"33",RJ,"330320","33005",Metropolitana I
+"48",3303302,Niterói,"33",RJ,"330330","33006",Metropolitana II
+"49",3303401,Nova Friburgo,"33",RJ,"330340","33009",Serrana
+"50",3303500,Nova Iguaçu,"33",RJ,"330350","33005",Metropolitana I
+"51",3303609,Paracambi,"33",RJ,"330360","33003",Centro-Sul
+"52",3303708,Paraíba Do Sul,"33",RJ,"330370","33003",Centro-Sul
+"53",3303807,Paraty,"33",RJ,"330380","33001",Baía da Ilha Grande
+"54",3303856,Paty Do Alferes,"33",RJ,"330385","33003",Centro-Sul
+"55",3303906,Petrópolis,"33",RJ,"330390","33009",Serrana
+"56",3303955,Pinheiral,"33",RJ,"330395","33004",Médio Paraíba
+"57",3304003,Piraí,"33",RJ,"330400","33004",Médio Paraíba
+"58",3304102,Porciúncula,"33",RJ,"330410","33007",Noroeste
+"59",3304110,Porto Real,"33",RJ,"330411","33004",Médio Paraíba
+"60",3304128,Quatis,"33",RJ,"330412","33004",Médio Paraíba
+"61",3304144,Queimados,"33",RJ,"330414","33005",Metropolitana I
+"62",3304151,Quissamã,"33",RJ,"330415","33008",Norte
+"63",3304201,Resende,"33",RJ,"330420","33004",Médio Paraíba
+"64",3304300,Rio Bonito,"33",RJ,"330430","33006",Metropolitana II
+"65",3304409,Rio Claro,"33",RJ,"330440","33004",Médio Paraíba
+"66",3304508,Rio Das Flores,"33",RJ,"330450","33004",Médio Paraíba
+"67",3304524,Rio Das Ostras,"33",RJ,"330452","33002",Baixada Litorânea
+"68",3304557,Rio De Janeiro,"33",RJ,"330455","33005",Metropolitana I
+"69",3304607,Santa Maria Madalena,"33",RJ,"330460","33009",Serrana
+"70",3304706,Santo Antônio De Pádua,"33",RJ,"330470","33007",Noroeste
+"71",3304755,São Francisco De Itabapoana,"33",RJ,"330475","33008",Norte
+"72",3304805,São Fidélis,"33",RJ,"330480","33008",Norte
+"73",3304904,São Gonçalo,"33",RJ,"330490","33006",Metropolitana II
+"74",3305000,São João Da Barra,"33",RJ,"330500","33008",Norte
+"75",3305109,São João De Meriti,"33",RJ,"330510","33005",Metropolitana I
+"76",3305133,São José De Ubá,"33",RJ,"330513","33007",Noroeste
+"77",3305158,São José Do Vale Do Rio Preto,"33",RJ,"330515","33009",Serrana
+"78",3305208,São Pedro Da Aldeia,"33",RJ,"330520","33002",Baixada Litorânea
+"79",3305307,São Sebastião Do Alto,"33",RJ,"330530","33009",Serrana
+"80",3305406,Sapucaia,"33",RJ,"330540","33003",Centro-Sul
+"81",3305505,Saquarema,"33",RJ,"330550","33002",Baixada Litorânea
+"82",3305554,Seropédica,"33",RJ,"330555","33005",Metropolitana I
+"83",3305604,Silva Jardim,"33",RJ,"330560","33006",Metropolitana II
+"84",3305703,Sumidouro,"33",RJ,"330570","33009",Serrana
+"85",3305752,Tanguá,"33",RJ,"330575","33006",Metropolitana II
+"86",3305802,Teresópolis,"33",RJ,"330580","33009",Serrana
+"87",3305901,Trajano De Moraes,"33",RJ,"330590","33009",Serrana
+"88",3306008,Três Rios,"33",RJ,"330600","33003",Centro-Sul
+"89",3306107,Valença,"33",RJ,"330610","33004",Médio Paraíba
+"90",3306156,Varre-Sai,"33",RJ,"330615","33007",Noroeste
+"91",3306206,Vassouras,"33",RJ,"330620","33003",Centro-Sul
+"92",3306305,Volta Redonda,"33",RJ,"330630","33004",Médio Paraíba
